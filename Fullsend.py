@@ -4,7 +4,7 @@ import requests
 import streamlit as st
 from msal import ConfidentialClientApplication
 
-# Set your Microsoft Teams app credentials and the target user's email
+# Set Microsoft Teams app credentials and the target user's email
 client_id = "your_client_id"
 client_secret = "your_client_secret"
 tenant_id = "your_tenant_id"
